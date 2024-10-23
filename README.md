@@ -1,4 +1,4 @@
-Contenidos
+El siguiente trabajo cuenta con:
 1. Simulación del Primer Sistema Cuántico (Sección 4.1):
 Este sistema modela una partícula confinada en un conjunto discreto de posiciones a lo largo de una línea. El simulador permite configurar tanto el número de posiciones disponibles como un vector ket que representa el estado de la partícula mediante sus amplitudes.
 -Determinar la probabilidad de localizar la partícula en una posición específica.
